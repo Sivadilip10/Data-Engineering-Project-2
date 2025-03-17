@@ -1,0 +1,27 @@
+[
+ {
+    "source_dynamice" : "/anshlambagit/Netflix_Azure_Data_Engineering_Project/refs/heads/main/RawData_AND_Notebooks/netflix_cast.csv",
+    "dynamic_directory" : "netflix_cast",
+    "dynamic_filename" : "netflix_cast.csv"
+ },
+ {
+    "source_dynamice" : "/anshlambagit/Netflix_Azure_Data_Engineering_Project/refs/heads/main/RawData_AND_Notebooks/netflix_category.csv",
+    "dynamic_directory" : "netflix_category",
+    "dynamic_filename" : "netflix_category.csv"
+ },
+ {
+    "source_dynamice" : "/anshlambagit/Netflix_Azure_Data_Engineering_Project/refs/heads/main/RawData_AND_Notebooks/netflix_countries.csv",
+    "dynamic_directory" : "netflix_countries",
+    "dynamic_filename" : "netflix_countries.csv"
+ },
+ {
+    "source_dynamice" : "/anshlambagit/Netflix_Azure_Data_Engineering_Project/refs/heads/main/RawData_AND_Notebooks/netflix_directors.csv",
+    "dynamic_directory" : "netflix_directors",
+    "dynamic_filename" : "netflix_directors.csv"
+ },
+ {
+    "source_dynamice" : "/anshlambagit/Netflix_Azure_Data_Engineering_Project/refs/heads/main/RawData_AND_Notebooks/netflix_titles.csv",
+    "dynamic_directory" : "netflix_titles",
+    "dynamic_filename" : "netflix_titles.csv"
+ }
+]
